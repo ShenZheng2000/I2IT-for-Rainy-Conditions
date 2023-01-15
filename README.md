@@ -25,7 +25,7 @@ This is an repository that contains the resources for image-to-image translation
 * ForkGAN (ECCV 2020) [[pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123480154.pdf)] [[TensorFlow](https://github.com/zhengziqiang/ForkGAN)]
   * ForkGAN: Seeing into the Rainy Night
  
-* AU-GAN (BMVC 2021) [[pdf](https://arxiv.org/pdf/2112.04283.pdf)] [[code](https://github.com/jgkwak95/AU-GAN)]
+* AU-GAN (BMVC 2021) [[pdf](https://arxiv.org/pdf/2112.04283.pdf)] [[Tensorflow](https://github.com/jgkwak95/AU-GAN)]
   * Adverse Weather Image Translation with Asymmetric and Uncertainty-aware GAN
 
 * ManiFest (ECCV 2022) [[pdf](https://arxiv.org/pdf/2111.13681v3.pdf)] [[PyTorch](https://github.com/astra-vision/ManiFest)]
