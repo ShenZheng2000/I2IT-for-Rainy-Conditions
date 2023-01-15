@@ -28,6 +28,9 @@ This is an repository that contains the resources for image-to-image translation
 * AU-GAN (BMVC 2021) [[pdf](https://arxiv.org/pdf/2112.04283.pdf)] [[Tensorflow](https://github.com/jgkwak95/AU-GAN)]
   * Adverse Weather Image Translation with Asymmetric and Uncertainty-aware GAN
 
+* CoMoGAN (CVPR 2021) [[pdf](https://openaccess.thecvf.com/content/CVPR2021/papers/Pizzati_CoMoGAN_Continuous_Model-Guided_Image-to-Image_Translation_CVPR_2021_paper.pdf)] [[PyTorch](https://github.com/astra-vision/CoMoGAN)]
+  * CoMoGAN: continuous model-guided image-to-image translation
+
 * ManiFest (ECCV 2022) [[pdf](https://arxiv.org/pdf/2111.13681v3.pdf)] [[PyTorch](https://github.com/astra-vision/ManiFest)]
   * ManiFest: manifold deformation for few-shot image translation
 
