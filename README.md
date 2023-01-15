@@ -35,7 +35,6 @@ This is an repository that contains the resources for image-to-image translation
   * ManiFest: manifold deformation for few-shot image translation
 
   
-  
 # Datasets (TODO)
 
 
