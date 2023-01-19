@@ -15,6 +15,12 @@ This is an repository that contains the resources for image-to-image translation
 
 * MUNIT (ECCV 2018) [[pdf](https://arxiv.org/abs/1804.04732)] [[PyTorch](https://github.com/nvlabs/MUNIT)]
   * Multimodal Unsupervised Image-to-Image Translation
+
+* DRIT (ECCV 2018) [[pdf](https://openaccess.thecvf.com/content_ECCV_2018/papers/Hsin-Ying_Lee_Diverse_Image-to-Image_Translation_ECCV_2018_paper.pdf)] [[PyTorch](https://github.com/HsinYingLee/DRIT/)]
+  * Diverse Image-to-Image Translation via Disentangled Representations
+
+* DRIT++ [[pdf](https://link.springer.com/content/pdf/10.1007/s11263-019-01284-z.pdf?pdf=button)] [[PyTorch](https://github.com/HsinYingLee/DRIT/)]
+  * DRIT++: Diverse Image-to-Image Translation via Disentangled Representations
  
 * INIT (CVPR 2019) [[pdf](https://openaccess.thecvf.com/content_CVPR_2019/papers/Shen_Towards_Instance-Level_Image-To-Image_Translation_CVPR_2019_paper.pdf)] [[NO CODE]()] [[dataset](http://zhiqiangshen.com/projects/INIT/index.html)]
   * Towards Instance-level Image-to-Image Translation
