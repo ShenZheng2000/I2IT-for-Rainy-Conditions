@@ -15,12 +15,23 @@ This is an repository that contains the resources for image-to-image translation
 
 * MUNIT (ECCV 2018) [[pdf](https://arxiv.org/abs/1804.04732)] [[PyTorch](https://github.com/nvlabs/MUNIT)]
   * Multimodal Unsupervised Image-to-Image Translation
-  
-* TSIT (ECCV 2020) [[pdf](https://arxiv.org/pdf/2007.12072.pdf)] [[PyTorch](https://github.com/EndlessSora/TSIT)]
-  * TSIT: A Simple and Versatile Framework for Image-to-Image Translation
-  
+ 
+* INIT (CVPR 2019) [[pdf](https://openaccess.thecvf.com/content_CVPR_2019/papers/Shen_Towards_Instance-Level_Image-To-Image_Translation_CVPR_2019_paper.pdf)] [[NO CODE]()] [[dataset](http://zhiqiangshen.com/projects/INIT/index.html)]
+  * Towards Instance-level Image-to-Image Translation
+ 
 * DUNIT (CVPR 2020) [[pdf](https://openaccess.thecvf.com/content_CVPR_2020/papers/Bhattacharjee_DUNIT_Detection-Based_Unsupervised_Image-to-Image_Translation_CVPR_2020_paper.pdf)] [[PyTorch](https://github.com/IVRL/Dunit)]
   * DUNIT: Detection-based Unsupervised Image-to-Image Translation
+  
+* MGUIT (CVPR 2021) [[pdf](https://openaccess.thecvf.com/content/CVPR2021/papers/Jeong_Memory-Guided_Unsupervised_Image-to-Image_Translation_CVPR_2021_paper.pdf)] [[Pytorch ](https://github.com/somijeong/MGUIT)]
+  * Memory-guided Unsupervised Image-to-image Translation
+
+* InstaFormer (CVPR 2021) [[pdf](https://openaccess.thecvf.com/content/CVPR2022/papers/Kim_InstaFormer_Instance-Aware_Image-to-Image_Translation_With_Transformer_CVPR_2022_paper.pdf)] [[PyTorch](https://github.com/KU-CVLAB/InstaFormer)]
+  * InstaFormer: Instance-Aware Image-to-Image Translation with Transformer
+
+  
+  <!--
+* TSIT (ECCV 2020) [[pdf](https://arxiv.org/pdf/2007.12072.pdf)] [[PyTorch](https://github.com/EndlessSora/TSIT)]
+  * TSIT: A Simple and Versatile Framework for Image-to-Image Translation
   
 * ForkGAN (ECCV 2020) [[pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123480154.pdf)] [[TensorFlow](https://github.com/zhengziqiang/ForkGAN)]
   * ForkGAN: Seeing into the Rainy Night
@@ -33,7 +44,7 @@ This is an repository that contains the resources for image-to-image translation
 
 * ManiFest (ECCV 2022) [[pdf](https://arxiv.org/pdf/2111.13681v3.pdf)] [[PyTorch](https://github.com/astra-vision/ManiFest)]
   * ManiFest: manifold deformation for few-shot image translation
-
+-->
   
 # Datasets (TODO)
 
