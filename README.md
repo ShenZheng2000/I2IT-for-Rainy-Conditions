@@ -31,7 +31,7 @@ This is an repository that contains the resources for image-to-image translation
 * MGUIT (CVPR 2021) [[pdf](https://openaccess.thecvf.com/content/CVPR2021/papers/Jeong_Memory-Guided_Unsupervised_Image-to-Image_Translation_CVPR_2021_paper.pdf)] [[Pytorch ](https://github.com/somijeong/MGUIT)]
   * Memory-guided Unsupervised Image-to-image Translation
 
-* InstaFormer (CVPR 2021) [[pdf](https://openaccess.thecvf.com/content/CVPR2022/papers/Kim_InstaFormer_Instance-Aware_Image-to-Image_Translation_With_Transformer_CVPR_2022_paper.pdf)] [[PyTorch](https://github.com/KU-CVLAB/InstaFormer)]
+* InstaFormer (CVPR 2022) [[pdf](https://openaccess.thecvf.com/content/CVPR2022/papers/Kim_InstaFormer_Instance-Aware_Image-to-Image_Translation_With_Transformer_CVPR_2022_paper.pdf)] [[PyTorch](https://github.com/KU-CVLAB/InstaFormer)]
   * InstaFormer: Instance-Aware Image-to-Image Translation with Transformer
 
   
