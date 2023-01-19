@@ -13,7 +13,7 @@ This is an repository that contains the resources for image-to-image translation
 * UNIT (NIPS 2017) [[pdf](https://arxiv.org/pdf/1703.00848.pdf)] [[PyTorch](https://github.com/mingyuliutw/UNIT)]
   * Unsupervised Image-to-Image Translation Networks
 
-* MUNIT (ECCV 2018) [[pdf](https://arxiv.org/abs/1804.04732)] [[PyTorch](https://github.com/nvlabs/MUNIT)]
+* MUNIT (ECCV 2018) [[pdf](https://openaccess.thecvf.com/content_ECCV_2018/papers/Xun_Huang_Multimodal_Unsupervised_Image-to-image_ECCV_2018_paper.pdf)] [[PyTorch](https://github.com/nvlabs/MUNIT)]
   * Multimodal Unsupervised Image-to-Image Translation
 
 * DRIT (ECCV 2018) [[pdf](https://openaccess.thecvf.com/content_ECCV_2018/papers/Hsin-Ying_Lee_Diverse_Image-to-Image_Translation_ECCV_2018_paper.pdf)] [[PyTorch](https://github.com/HsinYingLee/DRIT/)]
