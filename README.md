@@ -21,6 +21,9 @@ This is an repository that contains the resources for image-to-image translation
 
 * DRIT++ [[pdf](https://link.springer.com/content/pdf/10.1007/s11263-019-01284-z.pdf?pdf=button)] [[PyTorch](https://github.com/HsinYingLee/DRIT/)]
   * DRIT++: Diverse Image-to-Image Translation via Disentangled Representations
+  
+* InstaGAN [[pdf](https://arxiv.org/pdf/1812.10889.pdf)] [[PyTorch](https://github.com/sangwoomo/instagan)]
+  * InstaGAN: Instance-aware Image-to-Image Translation
  
 * INIT (CVPR 2019) [[pdf](https://openaccess.thecvf.com/content_CVPR_2019/papers/Shen_Towards_Instance-Level_Image-To-Image_Translation_CVPR_2019_paper.pdf)] [[NO CODE]()] [[dataset](http://zhiqiangshen.com/projects/INIT/index.html)]
   * Towards Instance-level Image-to-Image Translation
