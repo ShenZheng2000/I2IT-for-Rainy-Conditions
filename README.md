@@ -36,6 +36,12 @@ This is an repository that contains the resources for image-to-image translation
 
 * InstaFormer (CVPR 2022) [[pdf](https://openaccess.thecvf.com/content/CVPR2022/papers/Kim_InstaFormer_Instance-Aware_Image-to-Image_Translation_With_Transformer_CVPR_2022_paper.pdf)] [[PyTorch](https://github.com/KU-CVLAB/InstaFormer)]
   * InstaFormer: Instance-Aware Image-to-Image Translation with Transformer
+  
+* EGSDE (NeurIPS 2022) [[pdf](https://arxiv.org/pdf/2207.06635.pdf)] [[PyTorch](https://github.com/ML-GSAI/EGSDE)]
+  * EGSDE: Unpaired Image-to-Image Translation via Energy-Guided Stochastic Differential Equations
+  
+* Decent (NeurIPS 2022) [[pdf](https://openreview.net/pdf?id=RNZ8JOmNaV4)] [[PyTorch](https://github.com/Mid-Push/Decent)]
+  * Decent: Unpaired Image-to-Image Translation with Density Changing Regularization
 
   
   <!--
